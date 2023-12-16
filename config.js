@@ -7,7 +7,7 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['919074692450', 'ABHISHEK-SURESH', true],
+  ['916282524515', ' 𝚪𝚯𝚭𝚫𝚪𝚰𝚯 𝐒𝚵𝚪', true],
   [''],
   [''] 
 ] //Number of owners
@@ -47,7 +47,7 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁'
+global.botname = ' 𝚪𝚯𝚭𝚫𝚪𝚰𝚯 𝐒𝚵𝚪'
 global.premium = 'true'
 global.packname = '𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝙴𝚁🎯𝙰𝙱𝙷𝙸𝚂𝙷𝙴𝙺-𝚂𝚄𝚁𝙴𝚂𝙷☘️' 
 global.author = 'ABHISHEK SURESH' 
